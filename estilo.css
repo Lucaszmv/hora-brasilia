@@ -1,0 +1,40 @@
+body{
+background-image: url('imagens/fundo.png');
+font: normal 15pt arial;
+}
+
+header{
+color: white;
+text-align: center;
+
+}
+
+section{
+background: rgba(0, 0, 0, 0.274);
+border-radius: 10px;
+padding: 15px;
+width: 500px;
+margin: auto;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.349);
+
+}
+
+div {
+    text-align: center;
+    padding: 8px;
+    color: white;
+}
+#msg{
+    font: normal 70pt arial;
+    font-weight: bold;
+    text-align: center;
+    padding: 8px;
+    color: white;
+}
+
+footer{
+
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
